@@ -33,7 +33,7 @@
     "unexpected-sinon": "^6.4.1"
   },
   "peerDependencies": {
-    "react": ">=0.13.3"
+    "react": ">=0.13.3 || ^0.14.0-alpha"
   },
   "browserify-shim": {
     "classnames": "global:classNames",
